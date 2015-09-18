@@ -11,7 +11,7 @@
     </include>
     <!-- The Willow Garaga offices -->
     <include>
-      <uri>model://willowgarage</uri>
+      <uri>model://ct7</uri>
     </include>
   </world>
 </sdf>
