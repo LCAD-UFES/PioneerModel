@@ -109,7 +109,7 @@ work original in ucs-ros-pkg.
         </noise>
       </ray>
       <plugin filename="libgazebo_ros_laser.so" name="gazebo_ros_head_hokuyo_controller">
-        <topicName>p3dx/laser/scan</topicName>
+        <topicName>scan</topicName>
         <frameName>lms100</frameName>
       </plugin>
     </sensor>
